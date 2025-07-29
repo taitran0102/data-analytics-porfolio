@@ -3,13 +3,12 @@ Hi, I'm Tài Trần, a recent graduate in Mathematics with a focus on Probabilit
 
 ### Table of Contents
 - [My projects](#My-projects)
-- [More](#More)
 
 ***
 ### My projects
 |Project| Project Description | Key Techniques | Tools|
 |---|---|---|---|
-|[House Rent Analysis](https://github.com/taitran0102/house-rent-analysis) | Select a directed graphical model from a dataset to analyze relationships, extract meaningful insights, and make predictions. | Directed Graphical Model (Bayesian Network) | `R`,`Python`|
+|[House Rent Analysis](https://github.com/taitran0102/House-Rent-Analysis) | Select a directed graphical model from a dataset to analyze relationships, extract meaningful insights, and make predictions. | Directed Graphical Model (Bayesian Network) | `R`,`Python`|
 | a|a | a| a|
 ### More
 
