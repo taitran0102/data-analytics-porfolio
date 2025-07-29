@@ -9,7 +9,7 @@ Hi, I'm Tài Trần, a recent graduate in Mathematics with a focus on Probabilit
 |Project| Project Description | Key Techniques | Tools|
 |---|---|---|---|
 |[House Rent Analysis](https://github.com/taitran0102/House-Rent-Analysis) | Select a directed graphical model from a dataset to analyze relationships, extract meaningful insights, and make predictions. | Directed Graphical Model (Bayesian Network) | `R`,`Python`|
-| a|a | a| a|
+|[Google Data Analytics Capstone Project](https://github.com/taitran0102/google-data-analytics-capstone-project)|A case study for the for the final course of the Google Data Analytics Professional Certificate.| Six-step data analysis process: Ask, Prepare, Process, Analyze, Share, and Act| `Python`, `Excel` (basic)|
 ### More
 
 
